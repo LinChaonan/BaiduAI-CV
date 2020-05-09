@@ -139,7 +139,7 @@ if __name__ == '__main__':
 
     # 垃圾图1
     print("垃圾1")
-    print_result("./1.jpg", url)
+    print_result("./1.png", url)
 
     # 垃圾图3
     print("垃圾2")
